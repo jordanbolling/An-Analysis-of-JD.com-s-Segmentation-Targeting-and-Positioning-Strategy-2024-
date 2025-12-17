@@ -6,7 +6,7 @@ This project involved conducting a **data-driven market segmentation and targeti
 
 <h2>Dashboard Preview</h2>
 
-[Project PDF](https://github.com/jordanbolling/Dashboard-on-Python/blob/main/Coca-Cola%20Report.pdf)
+[Project PDF](https://github.com/jordanbolling/An-Analysis-of-JD.com-s-Segmentation-Targeting-and-Positioning-Strategy-2024-/blob/main/MA%20Segmentation%20Analysis.pdf)
 
 <h2>Languages and Utilities Used</h2>
 
