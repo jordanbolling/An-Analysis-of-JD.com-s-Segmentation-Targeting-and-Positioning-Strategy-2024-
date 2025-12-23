@@ -4,17 +4,13 @@
 This project involved conducting a **data-driven market segmentation and targeting analysis** for **JD.com**, China’s largest domestic e-commerce retailer. The objective was to identify high-value customer segments and develop a refined **market penetration strategy** in response to increasing competition from Alibaba and Amazon. Using **survey data and cluster analysis in R**, the study segmented customers based on demographic, behavioural, and preference variables, enabling JD.com to redesign its digital product retail marketing approach. The project was developed as part of a *Marketing Analytics coursework assignment* and demonstrates practical application of quantitative segmentation methods to strategic decision-making.
 <br />
 
-<h2>Dashboard Preview</h2>
-
 [Project PDF](https://github.com/jordanbolling/An-Analysis-of-JD.com-s-Segmentation-Targeting-and-Positioning-Strategy-2024-/blob/main/MA%20Segmentation%20Analysis.pdf)
 
 <h2>Languages and Utilities Used</h2>
 
 - R (cluster analysis, scaling, dendrograms, eigenvalue analysis)
 - Secondary research from Forbes, EcommerceDB, HubSpot, and industry reports
-  
 
-<h2>Program walk-through:</h2>
 
 #### **Key Objectives**
 - **Identify** distinct customer segments within JD.com’s digital retail market using behavioural and demographic data.
